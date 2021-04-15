@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RegistroActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contrasena">Contraseña:</string>
+    <string name="confircontrasena">Confirmar Contraseña:</string>
+    <string name="fechanaci">Fecha de nacimiento:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="tipDoc">Tipo de Documento:</string>
+    <string name="Document">Documento:</string>
+    <string name="regUsu">Registro Usuario</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="registro">Registro</string>
+    <string name="reset">Reset</string>
+    <string name="tipodoc">Tipo Documento</string>
+    <string name="fecha">Fecha</string>
+    <string name="hob">Hobbies</string>
+    <string name="terminos">Terminos y Condiciones</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="infousu">Informacion Usuario</string>
+    <string name="modhobb">Modificar Hobbies</string>
+    <string name="actualizar">Actualizar</string>
+</resources>
